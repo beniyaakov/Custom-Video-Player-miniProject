@@ -11,4 +11,4 @@ Custom video player using the HTML5 video element and it's JavaScript API with a
 - Set progress bar time
 - Display time in mins and seconds
 
-#this project part of 20 Web Projects With Vanilla JavaScript by Brad Traversy
+#this project part of **20 Web Projects With Vanilla JavaScript** by Brad Traversy
